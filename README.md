@@ -1,0 +1,1 @@
+A curses client to SoCo
